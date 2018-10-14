@@ -11,7 +11,7 @@ Time spent: About 5-5:30 hours spent in total
     - Vulnerability types: Cross Site Scripting
     - Tested in version: 4.2
     - Fixed in version: 4.2.10
-  - [ ] GIF Walkthrough: //todo
+  - [ ] GIF Walkthrough: xss1.gif
   - [ ] Steps to recreate: 
         Single step in:  [Link 1](https://wpvulndb.com/vulnerabilities/8111)
   - [ ] Affected source code:
@@ -21,7 +21,7 @@ Time spent: About 5-5:30 hours spent in total
     - Vulnerability types: Cross Site Scripting
     - Tested in version: 4.2
     - Fixed in version: 4.3.1
-  - [ ] GIF Walkthrough:  //todo
+  - [ ] GIF Walkthrough:  xss2.gif
   - [ ] Steps to recreate:
         Single Step in: [Link 1](https://wpvulndb.com/vulnerabilities/8186)
   - [ ] Affected source code: 
@@ -31,7 +31,7 @@ Time spent: About 5-5:30 hours spent in total
     - Vulnerability types: Cross Site Scripting
     - Tested in version: 4.2
     - Fixed in version: 4.2.3
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough: xss3.gif
   - [ ] Steps to recreate: [Link 1](https://blog.sucuri.net/2015/08/persistent-xss-vulnerability-in-wordpress-explained.html)
   - [ ] Affected source code:
     - [Link 1](http://wpdistillery.vm/wp-admin/comment.php?action=editcomment&c=9)
